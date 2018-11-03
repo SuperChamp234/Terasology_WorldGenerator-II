@@ -1,0 +1,11 @@
+{
+    "id" : "Task1",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Zain",
+    "displayName" : "Task1",
+    "description" : "",
+    "dependencies" : [
+        {"id": "Core", "minVersion": "2.0.0"}
+    ],
+        "serverSideOnly" : false    
+}
